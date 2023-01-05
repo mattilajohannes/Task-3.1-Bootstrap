@@ -1,0 +1,25 @@
+html, .content{
+    background-color: rgb(58, 123, 125);
+}
+.content{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 3em;
+    padding-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text{
+    text-align: center;
+    padding-top: 130px;
+    font-size: 1.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+img{
+    height: 300px;
+    position: fixed;
+    left: 640px;
+    top: 350px;
+}
