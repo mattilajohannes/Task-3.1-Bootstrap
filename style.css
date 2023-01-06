@@ -17,7 +17,7 @@ h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
-img{
+#frontPageImage{
     height: 300px;
     position: fixed;
     left: 640px;
@@ -29,3 +29,16 @@ img{
     padding-right: 50px;
 
 }
+#carouselExampleIndicators{
+    padding-top: 100px;
+}
+.carousel-item img{
+    margin: auto;
+    height: 400px;
+}
+p{
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 50px;
+}
+
